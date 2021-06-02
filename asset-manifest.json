@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-flask-mongo-users/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/react-flask-mongo-users/static/js/main.0a8e71dc.chunk.js",
+    "main.js.map": "/react-flask-mongo-users/static/js/main.0a8e71dc.chunk.js.map",
+    "runtime-main.js": "/react-flask-mongo-users/static/js/runtime-main.7f389c70.js",
+    "runtime-main.js.map": "/react-flask-mongo-users/static/js/runtime-main.7f389c70.js.map",
+    "static/css/2.d986b589.chunk.css": "/react-flask-mongo-users/static/css/2.d986b589.chunk.css",
+    "static/js/2.250397a3.chunk.js": "/react-flask-mongo-users/static/js/2.250397a3.chunk.js",
+    "static/js/2.250397a3.chunk.js.map": "/react-flask-mongo-users/static/js/2.250397a3.chunk.js.map",
+    "static/js/3.1f6cb7e1.chunk.js": "/react-flask-mongo-users/static/js/3.1f6cb7e1.chunk.js",
+    "static/js/3.1f6cb7e1.chunk.js.map": "/react-flask-mongo-users/static/js/3.1f6cb7e1.chunk.js.map",
+    "index.html": "/react-flask-mongo-users/index.html",
+    "static/css/2.d986b589.chunk.css.map": "/react-flask-mongo-users/static/css/2.d986b589.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/react-flask-mongo-users/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.250397a3.chunk.js.LICENSE.txt": "/react-flask-mongo-users/static/js/2.250397a3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f389c70.js",
+    "static/css/2.d986b589.chunk.css",
+    "static/js/2.250397a3.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.0a8e71dc.chunk.js"
+  ]
+}
